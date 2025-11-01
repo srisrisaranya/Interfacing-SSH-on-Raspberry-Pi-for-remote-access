@@ -1,7 +1,7 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
+### NAME: SARANYA S
+### ROLL NO: 212223110044
+### DEPARTMENT : B.E. CSE-IOT 3-YEAR
 ### DATE
 
 
@@ -71,6 +71,11 @@ On Linux/macOS:
 
 
 ![image](https://github.com/user-attachments/assets/0ca3336d-608d-4490-a4a8-fe751b99c3e5)
+
+# OUTPUT:
+<img width="1919" height="1079" alt="Screenshot 2025-10-04 162631" src="https://github.com/user-attachments/assets/da46d69b-b24e-4c23-b286-d9dcfea765ae" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-04 162652" src="https://github.com/user-attachments/assets/371e121d-ad26-4371-8ff7-9bbfbb5c75ad" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-04 162728" src="https://github.com/user-attachments/assets/7a36b240-f3f5-45ba-8cfc-633c150d075c" />
 
 
 
